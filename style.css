@@ -1,0 +1,17 @@
+h1{
+    color: rgb(32, 32, 24);
+}
+
+.mainDiv{
+   height: 600px;
+   width: 400px;
+
+}
+
+#inp{
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
